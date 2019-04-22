@@ -23,7 +23,7 @@ description: Personal website of Urban Wünsch
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "CV"
+  CV: "cv"
   About Me: "aboutme"
   Outreach: "outreach"
   News: "https://www.ujwunsch.com/tags/#website"
