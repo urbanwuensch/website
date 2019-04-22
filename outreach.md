@@ -3,4 +3,4 @@ layout: page
 title: Videos & Articles
 subtitle: 
 ---
-{% include youtubePlayer.html id=page.PAvWwPLvOzo %}
+{% include youtubePlayer.html id=PAvWwPLvOzo %}
