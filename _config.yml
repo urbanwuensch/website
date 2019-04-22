@@ -25,7 +25,8 @@ description: Personal website of Urban Wünsch
 navbar-links:
   CV: "CV"
   About Me: "aboutme"
-  Resources:
+  Outreach: "outreach"
+  Software:
     - aquaDOM: "https://github.com/urbanwuensch/aquaDOM"
     - LC addon for drEEM: "https://github.com/urbanwuensch/LC-addon-for-drEEM"
     - drEEM: "https://gitlab.com/dreem/drEEM"
