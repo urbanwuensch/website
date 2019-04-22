@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Videos & Articles
 subtitle: 
 ---
 {% include youtubePlayer.html id=page.PAvWwPLvOzo %}
