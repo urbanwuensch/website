@@ -3,6 +3,9 @@ layout: page
 title: Curriculum Vitae
 subtitle: 
 ---
+
+Download the CV [here](https://chalmersuniversity.box.com/s/kh7rj610icutjbe9rdhomv996zfpou5j)
+
 ## Research Interests
 - __Chemical characterization__ of organic matter using spectroscopy, spectrometry, and chromatography
 - Multivariate __statistical modeling__ including fusion of complementary analytical data sets
