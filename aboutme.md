@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle:
 bigimg: 
-  - "/img/urban_images.png"
+  - "/img/about.png"
 ---
 I am a postdoctoral researcher focussed on the elucidation of the relationship between optical and chemical properties of Dissolved Organic Matter (DOM). I use analytical techniques such as:
 
