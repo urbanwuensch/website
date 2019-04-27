@@ -23,11 +23,11 @@ description: Personal website of Urban Wünsch
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "cv"
-  About Me: "aboutme"
-  Outreach: "outreach"
-  News: "https://www.ujwunsch.com/tags/#website"
-  Software:
+  resume: "cv"
+  about Me: "aboutme"
+  outreach: "outreach"
+  news: "https://www.ujwunsch.com/tags/#website"
+  software:
     - aquaDOM: "https://github.com/urbanwuensch/aquaDOM"
     - LC addon for drEEM: "https://github.com/urbanwuensch/LC-addon-for-drEEM"
     - drEEM: "https://gitlab.com/dreem/drEEM"
