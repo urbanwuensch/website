@@ -26,7 +26,7 @@ navbar-links:
   resume: "cv"
   about Me: "aboutme"
   outreach: "outreach"
-  news: "https://www.ujwunsch.com/tags/#website"
+  news: "https://www.ujwunsch.com/tags/"
   software:
     - aquaDOM: "https://github.com/urbanwuensch/aquaDOM"
     - LC addon for drEEM: "https://github.com/urbanwuensch/LC-addon-for-drEEM"
