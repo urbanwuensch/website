@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OPENFluor plugin for OPENChrom"
-date:   2018-04-01
+date:   2018-10-20
 categories: News
 tags:	PhD, OpenFluor
 ---
