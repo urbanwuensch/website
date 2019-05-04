@@ -18,3 +18,5 @@ The one-sample PARAFAC approach:
 
 Dissolved Organic Matter formation from green tea:
 {% include youtubePlayer.html id=e43xgMIW6K4 %}
+
+[![Test](http://img.youtube.com/vi/PAvWwPLvOzo/0.jpg)](http://www.youtube.com/watch?v=PAvWwPLvOzo "Test")
