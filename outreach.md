@@ -16,5 +16,5 @@ OpenFluor webinar:
 The one-sample PARAFAC approach:
 {% include youtubePlayer.html id=FTKtjmwQOMc %}
 
-The one-sample PARAFAC approach:
-{% include youtubePlayer.html id=FTKtjmwQOMc %}
+Dissolved Organic Matter formation from green tea:
+{% include youtubePlayer.html id=e43xgMIW6K4 %}
