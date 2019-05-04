@@ -4,7 +4,7 @@ title: Videos & Articles
 subtitle: 
 ---
 
--toc
+- TOC
 {:toc}
 
 ## Articles
