@@ -5,7 +5,7 @@ description: CV of Urban Wünsch
 subtitle: 
 ---
 
-Download my full CV [here](https://chalmersuniversity.box.com/s/kh7rj610icutjbe9rdhomv996zfpou5j)
+Download my full CV [here](https://chalmersuniversity.box.com/shared/static/kh7rj610icutjbe9rdhomv996zfpou5j.pdf)
 
 ---
 __Jump to sections of interest:__
