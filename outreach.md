@@ -8,7 +8,7 @@ Horizon Magazine (2017): [Sample labelling in the North Sea helping link up Euro
 
 ## Videos
 Arctic Fjord Timelapse:
-{% include youtubePlayer.html id=PAvWwPLvOzo %}
+{% include youtubePlayer.html id="PAvWwPLvOzo" %}
 
 OpenFluor webinar:
 {% include youtubePlayer.html id=oKC5yt4v0BA %}
