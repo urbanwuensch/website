@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+description: CV of Urban Wünsch
 subtitle: 
 ---
 
