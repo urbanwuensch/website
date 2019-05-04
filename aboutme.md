@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle:
+description: "Research Interests of Urban Wünsch"
 bigimg: 
   - "/img/about.png"
 ---
