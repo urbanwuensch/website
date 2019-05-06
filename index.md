@@ -2,7 +2,7 @@
 layout: page
 title: Urban J. Wünsch
 subtitle: Organic Matter spectroscopy & chemometrics
-use-site-title: false
+use-site-title: true
 bigimg: 
   - "/img/Camas_sampling.jpg" : "Camas (OR, USA, 2013)"
   - "/img/eurofleets2.jpg" : "Tromsø, Norway (2015)"
