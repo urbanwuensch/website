@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle:
-description: "Research Interests of Urban Wünsch"
+title: Urban J. Wünsch
+subtitle: Organic Matter spectroscopy & chemometrics
+use-site-title: false
 bigimg: 
-  - "/img/about.png"
+  - "/img/Camas_sampling.jpg" : "Camas (OR, USA, 2013)"
+  - "/img/eurofleets2.jpg" : "Tromsø, Norway (2015)"
+  - "/img/Fjord_ice_MSM56.jpg" : "Scoresby Sund, Greenland (2016)"
+- "/img/Columbia_River.jpg" : "Columbia River, OR (USA, 2013)"
 ---
+
 I am a postdoctoral researcher focussed on the elucidation of the relationship between optical and chemical properties of Dissolved Organic Matter (DOM). I use analytical techniques such as:
 
 - Fluorescence emission-excitation matrix (EEM) spectroscopy
