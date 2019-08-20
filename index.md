@@ -31,7 +31,7 @@ I am a postdoctoral researcher focussed on the elucidation of the relationship b
 
 In conjunction with these analytical techniques, I focus on the data analysis using multivariate statistical models (chemometrics) such as:
 
-- Principle Component Analysis (PCA)
+- Principal Component Analysis (PCA)
 - Parallel Factor Analysis (PARAFAC & PARAFAC2)
 - N-way partial least squares (N-PLS)
 - Advanced Coupled Matrix and Tensor Factorization (ACMTF)
