@@ -44,7 +44,9 @@ __Jump to sections of interest:__
 
 - 2019:	Åforsk Foundation (400k SEK, main applicant): Enhancing Biogeochemical Fingerprints of Natural Organic Matter with Data Fusion.
 - 2019:	Vinnova, Swedish Governmental Agency for Innovation Systems (474k SEK, co-applicant): An optical sensor for reducing biocide dependence in chemical manufacturing.
-Scholarships
+
+### Scholarships
+
 - 2018:	National Science Foundation & National Oceanic and Atmospheric Administration. Stipend for participation in the Dissertations Symposium in Chemical Oceanography.
 - 2018:	International Humic Substances Society student travel award.
 - 2017:	Otto Mønsted Fond. Scholarship for conference participation.
