@@ -10,7 +10,6 @@ bigimg:
   - "/img/Columbia_River.jpg" : "Columbia River, OR (USA, 2013)"
 ---
 
-Hi there,
 I'm Urban Wünsch, a postdoctoral researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water. 
 
 Did I loose you there? Imagine a nice cup of [black tea](https://www.youtube.com/watch?v=e43xgMIW6K4). We instinctively know that the darker our tea, the more intense the flavor. We actually figured out the chemistry of tea a long time ago. But would you drink water from a river if it had the same intense color? Probably not, right? 
