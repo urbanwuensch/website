@@ -13,7 +13,6 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   
-  {% include cookieconsent.html %}
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}
@@ -123,7 +122,9 @@
   {% if site.matomo %}
   {% include matomo.html %}
   {% endif %}
-
+  
+  {% include cookieconsent.html %}
+  
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <!-- Staticman -->
   <link rel="stylesheet" href="{{ "/css/staticman.css" | prepend: site.baseurl }}" />
