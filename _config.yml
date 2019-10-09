@@ -30,6 +30,7 @@ navbar-links:
     - aquaDOM: "https://github.com/urbanwuensch/aquaDOM"
     - LC addon for drEEM: "https://github.com/urbanwuensch/LC-addon-for-drEEM"
     - drEEM: "https://gitlab.com/dreem/drEEM"
+    - Useful MATLAB code: "https://github.com/urbanwuensch/MATLAB-functions"
 
 # Paginate the news page
 paginate_path: "/news/page:num/"
