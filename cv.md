@@ -102,7 +102,8 @@ __Jump to sections of interest:__
 
 
 ## Publications
-
+- Pucher, M., __Wünsch, U.__, Weigelhofer, G., Murphy, K., Hein, T., Graeber, D. (2019). [staRdom: Versatile Software for Analyzing Spectroscopic Data of Dissolved Organic Matter in R](https://doi.org/10.3390/w11112366). Water 11 (11), 2366.
+Moona, N., __Wünsch, U.J.__, Bondelind, M., Bergstedt, O., Sapmaz, T., Pettersson, T.J.R., Murphy, K.R. (2019). [Temperature-dependent mechanisms of DOM removal by biological activated carbon filters](https://doi.org/10.1039/C9EW00620F). Environmental Science: Water Research & Technology. 5 (12): 2232–2241.
 - __Wünsch, U.J.__, Bro, R., Stedmon, C.A., Wenig, P., Murphy K.R., 2019. [Emerging patterns in the global distribution of dissolved organic matter fluorescence](https://doi.org/10.1039/C8AY02422G). Analytical Methods. Doi: 10.1039/C8AY02422G.
 - __Wünsch, U.J.__, Acar, E., Koch, B.P., Murphy K.R., Schmitt-Kopplin, P., Stedmon. C. A., 2018. [The molecular fingerprint of fluorescent natural organic matter offers insight into biogeochemical sources and diagenetic state](https://doi.org/10.1021/acs.analchem.8b02863). Analytical Chemistry. 90 (24): 14188-14197.
 - A.-R. Schittich, __U. Wünsch__, H. Kulkarni, M. Battistel, H. Bregnhøj, C. A. Stedmon and U. S. McKnight. 2018. [Investigating fluorescent organic matter composition as a key predictor for arsenic mobility in groundwater aquifers](https://doi.org/10.1021/acs.est.8b04070). Environmental Science and Technology. 52 (22): 13027–13036.
