@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Urban J. Wünsch
+title: 
 subtitle: Organic Matter spectroscopy & chemometrics
 use-site-title: true
 bigimg: 
