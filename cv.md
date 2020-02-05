@@ -47,6 +47,8 @@ __Jump to sections of interest:__
 
 ### Scholarships
 
+- 2020: Chalmers Reseach Foundation: Travel scholarship for conference participation
+- 2020: Åforsk Foundation: Travel scholarship for conference participation
 - 2018:	National Science Foundation & National Oceanic and Atmospheric Administration. Stipend for participation in the Dissertations Symposium in Chemical Oceanography.
 - 2018:	International Humic Substances Society student travel award.
 - 2017:	Otto Mønsted Fond. Scholarship for conference participation.
@@ -68,6 +70,7 @@ __Jump to sections of interest:__
 
 ### Oral presentations
 
+- 2020: Emerging Patterns in the Global Distribution of Fluorescent Dissolved Organic Matter, Ocean Sciences Meeting 2020 (San Diego, USA)
 - 2017:	HPSEC reveals ubiquitous components in fluorescent dissolved organic matter across aquatic ecosystems, European Geosciences Union General Assembly (Vienna, Austria)
 - 2017:	Low Molecular Size Fraction Drives Differences in Optical Properties of Dissolved Organic Matter in Lake, Aquatic Sciences Meeting (Honolulu, USA)
 - 2016:	Quantum Yields of Natural Organic Matter and Organic Compounds: Implications for the Fluorescence-based Interpretation of Organic Matter Composition, Ocean Sciences Meeting (New Orleans, USA)
@@ -102,6 +105,7 @@ __Jump to sections of interest:__
 
 
 ## Publications
+- __Wünsch, U.J.__, Hawkes, J.A., 2020. [Mathematical chromatography deciphers the molecular fingerprints of dissolved organic matter](https://doi.org/10.1039/C9AN02176K). Analyst.
 - Pucher, M., __Wünsch, U.__, Weigelhofer, G., Murphy, K., Hein, T., Graeber, D. (2019). [staRdom: Versatile Software for Analyzing Spectroscopic Data of Dissolved Organic Matter in R](https://doi.org/10.3390/w11112366). Water 11 (11), 2366.
 - Moona, N., __Wünsch, U.J.__, Bondelind, M., Bergstedt, O., Sapmaz, T., Pettersson, T.J.R., Murphy, K.R. (2019). [Temperature-dependent mechanisms of DOM removal by biological activated carbon filters](https://doi.org/10.1039/C9EW00620F). Environmental Science: Water Research & Technology. 5 (12): 2232–2241.
 - __Wünsch, U.J.__, Bro, R., Stedmon, C.A., Wenig, P., Murphy K.R., 2019. [Emerging patterns in the global distribution of dissolved organic matter fluorescence](https://doi.org/10.1039/C8AY02422G). Analytical Methods. Doi: 10.1039/C8AY02422G.
