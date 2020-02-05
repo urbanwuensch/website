@@ -5,7 +5,7 @@ subtitle: Organic Matter spectroscopy & chemometrics
 use-site-title: true
 bigimg: 
   - "/img/Camas_sampling.jpg" : "Camas (OR, USA, 2013)"
-  - "/img/43544537950_1b6bc0499d_o.jpg" : "IHSS conference (Bulgaria, 2018)"
+  - "/img/43544537950_1b6bc0499d_o_small.jpg" : "IHSS conference (Bulgaria, 2018)"
   - "/img/eurofleets2.jpg" : "Tromsø, Norway (2015)"
   - "/img/Fjord_ice_MSM56.jpg" : "Scoresby Sund, Greenland (2016)"
   - "/img/Columbia_River.jpg" : "Columbia River, OR (USA, 2013)"
