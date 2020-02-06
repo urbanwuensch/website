@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Organic Matter spectroscopy & chemometrics
+subtitle:
 use-site-title: true
 bigimg: 
   - "/img/Camas_sampling.jpg" : "Camas (OR, USA, 2013)"
