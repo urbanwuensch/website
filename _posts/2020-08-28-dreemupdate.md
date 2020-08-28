@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Software update"
-date:   2020-08-01
+date:   2020-08-28
 categories: News
 tags:	drEEM
 ---
