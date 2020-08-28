@@ -10,4 +10,4 @@ I'm happy to tell you that I've released a new update to the drEEM toolbox for M
 
 The drEEM toolbox (decomposition routines for Excitation Emission Matrices) has been developed to support and extend the application of PARAFAC to fluorescence Excitation Emission Matrix (EEM) datasets.
 
-Get it here: [dreem.openfluor.org](dreem.openfluor.org)
+Get it here: [http://dreem.openfluor.org/](http://dreem.openfluor.org/)
