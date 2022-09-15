@@ -20,14 +20,16 @@ __Jump to sections of interest:__
 ## Research Interests
 
 - Biogeochemistry of natural organic matter in aquatic systems
+- Biogeochemistry of enzymes
 - Analytical chemistry: organic matter characterization by spectroscopy, mass spectrometry, and chromatography
 - Multivariate statistical modeling of large chemical datasets (big data & data fusion)
 
 ---
 ## Employment
+- Since 2020.	Postdoc. Technical University of Denmark, National Institute for Aquatic Resources.
+- 2018-2020.		Postdoc. Chalmers University of Technology, Architecture and Civil Engineering.
+- 2014-2017.		PhD student. Technical University of Denmark, National Institute for Aquatic Resources.
 
-- __Postdoc (2018-present):__ Chalmers University of Technology (Sweden): Improved specificity of drinking water treatment monitoring by simultaneous deconvolution of multivariate, complex chemical data sets using data fusion models.
-- __PhD student (2014-2017):__ Technical University of Denmark (Denmark): Characterization and statistical modeling of organic matter from aquatic environments. Planning and participation in three sampling campaigns spanning a total of seven weeks. Two moths spent with colleagues at the Florida State University and Oregon Health and Science University (USA).
 
 ---
 
@@ -47,6 +49,7 @@ __Jump to sections of interest:__
 
 ### Scholarships
 
+- 2019.	Carl Triggers Stiftelse 2-year postdoctoral scholarship (main author, 552k SEK).
 - 2020: Chalmers Reseach Foundation: Travel scholarship for conference participation
 - 2020: Åforsk Foundation: Travel scholarship for conference participation
 - 2018:	National Science Foundation & National Oceanic and Atmospheric Administration. Stipend for participation in the Dissertations Symposium in Chemical Oceanography.
@@ -85,36 +88,29 @@ __Jump to sections of interest:__
 
 ## Teaching experience
 
-### Chalmers University of Technology
-
-- 2018-present: 	Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
-- 2018:		Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
-- 2018:	Workshop in multivariate statistics in cooperation with Colin A. Stedmon (DTU) and Kathleen Murphy (Chalmers)
-
-### Technical University of Denmark
-
-- 2015-2017:	Chemical Oceanography (M.Sc.).
-- 2017:		Introduction to Ocean Science and Technology (B.Sc).
+- Since 2018.		Parallel Factor Analysis for DOM fluorescence (biannual course, 25 PhD students & researchers).
+- 2021-present.	Lecturer in M.Sc. courses “Aquatic Field work” & “Chemical Oceanography”.
+- 2018-2019. 	Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
+- 2018.		Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
 
 ## Student supervision
 
-- 2019-present:	Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
-- 2019-present:	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: PhD committee member
-- 2018-present: Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
-- 2017-2018:	Anna-Ricarda Schittich (Master student), DTU Environment (Denmark), role: Supervision of laboratory work.
+- Since 2019.	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee, thesis reviewer & PhD defense member.
+- Since 2019.		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
+- 2018-2021.		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
+
+- 2022.	Emilie Tage Andresen (B.Sc. thesis), DTU Kemi, role: Co-supervisor
+- 2022.	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
+- 2022.	Synne Spjelkavik (M.Sc. special course). DTU Aqua, role: Co-supervisor
+- 2021.	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Sc.), DTU Sustain (Denmark), role: Co-supervisor in voluntary special course.
+- 2021.		Evelyn Namuga Kasule (B.Sc.), DTU Sustain (Denmark), role: Co-supervisor.
+- 2020-2022.		Signe Melbye Andersen (MSc.), DTU Aqua (Denmark), role: Co-supervisor.
 
 
 ## Publications
-- __Wünsch, U.J.__, Hawkes, J.A., 2020. [Mathematical chromatography deciphers the molecular fingerprints of dissolved organic matter](https://doi.org/10.1039/C9AN02176K). Analyst.
-- Pucher, M., __Wünsch, U.__, Weigelhofer, G., Murphy, K., Hein, T., Graeber, D. (2019). [staRdom: Versatile Software for Analyzing Spectroscopic Data of Dissolved Organic Matter in R](https://doi.org/10.3390/w11112366). Water 11 (11), 2366.
-- Moona, N., __Wünsch, U.J.__, Bondelind, M., Bergstedt, O., Sapmaz, T., Pettersson, T.J.R., Murphy, K.R. (2019). [Temperature-dependent mechanisms of DOM removal by biological activated carbon filters](https://doi.org/10.1039/C9EW00620F). Environmental Science: Water Research & Technology. 5 (12): 2232–2241.
-- __Wünsch, U.J.__, Bro, R., Stedmon, C.A., Wenig, P., Murphy K.R., 2019. [Emerging patterns in the global distribution of dissolved organic matter fluorescence](https://doi.org/10.1039/C8AY02422G). Analytical Methods. Doi: 10.1039/C8AY02422G.
-- __Wünsch, U.J.__, Acar, E., Koch, B.P., Murphy K.R., Schmitt-Kopplin, P., Stedmon. C. A., 2018. [The molecular fingerprint of fluorescent natural organic matter offers insight into biogeochemical sources and diagenetic state](https://doi.org/10.1021/acs.analchem.8b02863). Analytical Chemistry. 90 (24): 14188-14197.
-- A.-R. Schittich, __U. Wünsch__, H. Kulkarni, M. Battistel, H. Bregnhøj, C. A. Stedmon and U. S. McKnight. 2018. [Investigating fluorescent organic matter composition as a key predictor for arsenic mobility in groundwater aquifers](https://doi.org/10.1021/acs.est.8b04070). Environmental Science and Technology. 52 (22): 13027–13036.
-- Wünsch, U.J., Geuer, J.K. Lechtenfeld, O.J., Koch, B.P., Murphy, K.R., Stedmon, C.A., 2018. [Quantifying the impact of solid-phase extraction on chromophoric dissolved organic matter composition](https://doi.org/10.1016/j.marchem.2018.08.010). Marine Chemistry. 207: 33-41
-- Murphy, K.R., Timko, S., Gonsior, M., Powers, L., __Wünsch, U.J.__, Stedmon, C.A., 2018. [Photochemistry illuminates ubiquitous organic matter fluorescence spectra](https://doi.org/10.1021/acs.est.8b02648). Environmental Science and Technology. 52(19): 11243–11250
- - __Wünsch, U. J.__, C. A. Stedmon, L. J. Tranvik, and F. Guillemette. 2018. [Unraveling the size-dependent optical properties of dissolved organic matter](https://doi.org/10.1002/lno.10651). Limnology and Oceanography. 63(2):588-601.
-- __Wünsch, U. J.__, K. R. Murphy, and C. A. Stedmon. 2017. [The one-sample PARAFAC approach reveals molecular size distributions of fluorescent components in dissolved organic matter](https://doi.org/10.1021/acs.est.7b03260). Environmental Science & Technology. 51(20):11900–11908.
-- __Wünsch, U. J.__, Murphy, K. R., Stedmon, C. A., 2015 [Fluorescence Quantum Yields of Natural Organic Matter and Organic Compounds: Implications for the Fluorescence-based Interpretation of Organic Matter Composition](https://doi.org/10.3389/fmars.2015.00098). Front. Mar. Sci. 2(98):1–15.
+
+[Google scholar](https://scholar.google.com/citations?hl=en&user=mOwcA1MAAAAJ)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192896682)
+[Web of Science](https://www.webofscience.com/wos/author/rid/H-2976-2019)
 
 ---
