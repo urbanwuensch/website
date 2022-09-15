@@ -88,29 +88,29 @@ __Jump to sections of interest:__
 
 ## Teaching experience
 
-- Since 2018.		Parallel Factor Analysis for DOM fluorescence (biannual course, 25 PhD students & researchers).
-- 2021-present.	Lecturer in M.Sc. courses “Aquatic Field work” & “Chemical Oceanography”.
-- 2018-2019. 	Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
-- 2018.		Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
+- Since 2018:		Parallel Factor Analysis for DOM fluorescence (biannual course, 25 PhD students & researchers).
+- 2021-present:	Lecturer in M.Sc. courses “Aquatic Field work” & “Chemical Oceanography”.
+- 2018-2019: 	Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
+- 2018:		Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
 
 ## Student supervision
 
-- Since 2019.	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee, thesis reviewer & PhD defense member.
-- Since 2019.		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
-- 2018-2021.		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
+- Since 2019:	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee, thesis reviewer & PhD defense member.
+- Since 2019:		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
+- 2018-2021:		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
 
-- 2022.	Emilie Tage Andresen (B.Sc. thesis), DTU Kemi, role: Co-supervisor
-- 2022.	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
-- 2022.	Synne Spjelkavik (M.Sc. special course). DTU Aqua, role: Co-supervisor
-- 2021.	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Sc.), DTU Sustain (Denmark), role: Co-supervisor in voluntary special course.
-- 2021.		Evelyn Namuga Kasule (B.Sc.), DTU Sustain (Denmark), role: Co-supervisor.
-- 2020-2022.		Signe Melbye Andersen (MSc.), DTU Aqua (Denmark), role: Co-supervisor.
+- 2022:	Emilie Tage Andresen (B.Sc. thesis), DTU Kemi, role: Co-supervisor
+- 2022:	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
+- 2022:	Synne Spjelkavik (M.Sc. special course). DTU Aqua, role: Co-supervisor
+- 2021:	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Sc.), DTU Sustain (Denmark), role: Co-supervisor in voluntary special course.
+- 2021:		Evelyn Namuga Kasule (B.Sc.), DTU Sustain (Denmark), role: Co-supervisor.
+- 2020-2022:		Signe Melbye Andersen (MSc.), DTU Aqua (Denmark), role: Co-supervisor.
 
 
 ## Publications
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=mOwcA1MAAAAJ)
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192896682)
-[Web of Science](https://www.webofscience.com/wos/author/rid/H-2976-2019)
+- [Google scholar](https://scholar.google.com/citations?hl=en&user=mOwcA1MAAAAJ)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192896682)
+- [Web of Science](https://www.webofscience.com/wos/author/rid/H-2976-2019)
 
 ---
