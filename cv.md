@@ -98,7 +98,6 @@ __Jump to sections of interest:__
 - Since 2019:	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee, thesis reviewer & PhD defense member.
 - Since 2019:		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
 - 2018-2021:		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
-
 - 2022:	Emilie Tage Andresen (B.Sc. thesis), DTU Kemi, role: Co-supervisor
 - 2022:	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
 - 2022:	Synne Spjelkavik (M.Sc. special course). DTU Aqua, role: Co-supervisor
