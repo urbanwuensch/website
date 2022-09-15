@@ -5,7 +5,7 @@ description: CV of Urban Wünsch
 subtitle: 
 ---
 
-Download my full CV [here](https://files.dtu.dk/u/rGI_LMbiPyK-Yj8r/CV_Wuensch.pdf?l).
+Download my full CV [here](https://github.com/urbanwuensch/website/raw/master/img/CV_Wuensch.pdf).
 
 ---
 __Jump to sections of interest:__
