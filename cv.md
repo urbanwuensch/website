@@ -86,13 +86,13 @@ __Jump to sections of interest:__
 - 2018-2021:		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
 
 ## Student supervision
-- 2023:	Dirk Bremmers (M.Eng. thesis), DTU Aqua, role: Co-supervisor
-- 2022:	Emilie Tage Andresen (B.Eng. thesis), DTU Kemi, role: Co-supervisor
-- 2022:	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
-- 2022:	Synne Spjelkavik (M.Eng. special course). DTU Aqua, role: Co-supervisor
-- 2022:		Signe Melbye Andersen (M.Eng. thesis), DTU Aqua (Denmark), role: Co-supervisor.
-- 2021:	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Eng.), DTU Sustain (Denmark), role: Co-supervisor in special course.
-- 2021:		Evelyn Namuga Kasule (B.Eng.), DTU Sustain (Denmark), role: Co-supervisor.
+- 2023:  Dirk Bremmers (M.Eng. thesis), DTU Aqua, role: Co-supervisor
+- 2022:  Emilie Tage Andresen (B.Eng. thesis), DTU Kemi, role: Co-supervisor
+- 2022:  Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
+- 2022:  Synne Spjelkavik (M.Eng. special course). DTU Aqua, role: Co-supervisor
+- 2022:  Signe Melbye Andersen (M.Eng. thesis), DTU Aqua (Denmark), role: Co-supervisor.
+- 2021:  Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Eng.), DTU Sustain (Denmark), role: Co-supervisor in special course.
+- 2021:  Evelyn Namuga Kasule (B.Eng.), DTU Sustain (Denmark), role: Co-supervisor.
 
 
 ## Publications
