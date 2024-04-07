@@ -19,14 +19,15 @@ __Jump to sections of interest:__
 ---
 ## Research Interests
 
-- Biogeochemistry of natural organic matter in aquatic systems
 - Biogeochemistry of enzymes
-- Analytical chemistry: organic matter characterization by spectroscopy, mass spectrometry, and chromatography
-- Multivariate statistical modeling of large chemical datasets (big data & data fusion)
+- Biogeochemistry of natural organic matter in aquatic systems
+- Environmental analytical chemistry: organic matter characterization by spectroscopy, mass spectrometry, and chromatography, chemometrics & data fusion
+- Innovation in environmental sciences
 
 ---
 ## Employment
-- Since 2020.	Postdoc. Technical University of Denmark, National Institute for Aquatic Resources.
+- Since 2024.   Researcher. Technical University of Denmark, National Institute for Aquatic Resources.
+- 2020-2024.	  Postdoc. Technical University of Denmark, National Institute for Aquatic Resources.
 - 2018-2020.		Postdoc. Chalmers University of Technology, Architecture and Civil Engineering.
 - 2014-2017.		PhD student. Technical University of Denmark, National Institute for Aquatic Resources.
 
@@ -43,7 +44,9 @@ __Jump to sections of interest:__
 ## Awarded grants and scholarships
 
 ### Grants
-
+- 2023: Independent Research Fund Denmark (335k EUR): A new approach to laccase discovery from the sea.
+- 2022: FORMAS, Sweden (co-applicant, 146k SEK): New eyes on old GAC
+- 2021: FORMAS, Sweden (co-applicant, 26k SEK): Oxidation demand and Rate (ODaR) as a sensitive proxy of biostability in drinking water
 - 2019:	Åforsk Foundation (400k SEK, main applicant): Enhancing Biogeochemical Fingerprints of Natural Organic Matter with Data Fusion.
 - 2019:	Vinnova, Swedish Governmental Agency for Innovation Systems (474k SEK, co-applicant): An optical sensor for reducing biocide dependence in chemical manufacturing.
 
@@ -58,28 +61,11 @@ __Jump to sections of interest:__
 - 2015:	Kaj og Hermilla Ostenfeld’s Fond. Scholarship for external research stay.
 
 
-## Invited talks
-- 2018:	From fluorescence to chemical composition of organic matter: Multidetector analysis of DOM. International workshop: Predicting the interactivity of dissolved organic matter across terrestrial and aquatic ecosystems (Lund, Sweden)
-- 2018:	Resolving the chemical structures responsible for the UV-visible spectroscopic properties of dissolved organic matter in aquatic environments, Dissertations Symposium in Chemical Oceanography (Kona, USA)
-- 2018:	Supramolecular organic matter assembly in light of multidetector data analyses, 19th International Conference of International Humic Substances Society (Albena Resort, Bulgaria)
-- 2018:	Data fusion bridges the gaps between heterogeneous environmental chemistry datasets, Three-way Methods in Chemistry and Psychology (Angel Fire, NM, USA)
-- 2016:	OpenFluor – A new tool in your fluorescence toolbox, webinar in cooperation with Horiba Scientific
+## Three most recent conferences
+- 2023.	Photosensitivity of fluorescent dissolved organic matter across the arctic ocean, Aquatic Sciences Meeting 2023 (Mallorca, Spain)
+- 2021.	Combining Physical and Mathematical Chromatography to Decipher the Molecular Fingerprints of Dissolved Organic Matter, 20th Conference of the International Humic Substances Society (online)
+- 2021.	Mathematical chromatography deciphers the molecular fingerprints of dissolved organic matter, Aquatic Sciences Meeting 2021 (online).
 
-## Conference activity / participation
-
-### Session organizer
-
-- 2018:	Ocean Sciences Meeting. New Approaches to Opening DOM's "Black Box" Using Its Optical and Chemical Properties.
-
-### Oral presentations
-
-- 2020: Emerging Patterns in the Global Distribution of Fluorescent Dissolved Organic Matter, Ocean Sciences Meeting 2020 (San Diego, USA)
-- 2017:	HPSEC reveals ubiquitous components in fluorescent dissolved organic matter across aquatic ecosystems, European Geosciences Union General Assembly (Vienna, Austria)
-- 2017:	Low Molecular Size Fraction Drives Differences in Optical Properties of Dissolved Organic Matter in Lake, Aquatic Sciences Meeting (Honolulu, USA)
-- 2016:	Quantum Yields of Natural Organic Matter and Organic Compounds: Implications for the Fluorescence-based Interpretation of Organic Matter Composition, Ocean Sciences Meeting (New Orleans, USA)
-- 2015:	aquaDOM – An open-source toolbox for determining apparent fluorescence quantum yields of dissolved organic matter, Workshop on Organic Matter Spectroscopy (Sopot, Poland)
-- 2015:	Relationships between fluorescence spectra in the OpenFluor database, and similarities with the spectra of pure organic compounds, NOM6 (Malmö, Sweden)
-- 2014:	Seasonal Chemical Variability of Dissolved Organic Matter in the Columbia River: Ultrahigh Resolution in situ Sensors and Mass Spectrometry, Aquatic Sciences Meeting (Portland, USA)
 
 ## Membership in scientific societies
 
@@ -88,22 +74,27 @@ __Jump to sections of interest:__
 
 ## Teaching experience
 
-- Since 2018:		Parallel Factor Analysis for DOM fluorescence (biannual course, 25 PhD students & researchers).
-- 2021-present:	Lecturer in M.Sc. courses “Aquatic Field work” & “Chemical Oceanography”.
-- 2018-2019: 	Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
-- 2018:		Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
+- Since 2023:		Main teacher: Business Development and Innovation (12 students, M.Eng.)
+- Since 2018:		Teacher: Parallel Factor Analysis for DOM fluorescence (25 PhD students & researchers).
+- 2021-present:	Lecturer: M.Sc. courses “Aquatic Field work” and “Chemical Oceanography”.
+- 2018-2019:	Tutor: Introduction to Chemistry for Civil Engineers (220 students, B.Eng.)
+- 2018:		Tutor: Urban spaces and functions for Civil Engineers (250 students, B.Eng.).
+
+
+## PhD supervision
+
+- 2019-2023.	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee and PhD defense committee member.
+- 2019-2023.		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
+- 2018-2021.		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
 
 ## Student supervision
-
-- Since 2019:	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee, thesis reviewer & PhD defense member.
-- Since 2019:		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
-- 2018-2021:		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
-- 2022:	Emilie Tage Andresen (B.Sc. thesis), DTU Kemi, role: Co-supervisor
-- 2022:	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
-- 2022:	Synne Spjelkavik (M.Sc. special course). DTU Aqua, role: Co-supervisor
-- 2021:	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Sc.), DTU Sustain (Denmark), role: Co-supervisor in voluntary special course.
-- 2021:		Evelyn Namuga Kasule (B.Sc.), DTU Sustain (Denmark), role: Co-supervisor.
-- 2020-2022:		Signe Melbye Andersen (MSc.), DTU Aqua (Denmark), role: Co-supervisor.
+- 2023.	Dirk Bremmers (M.Eng. thesis), DTU Aqua, role: Co-supervisor
+- 2022.	Emilie Tage Andresen (B.Eng. thesis), DTU Kemi, role: Co-supervisor
+- 2022.	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
+- 2022.	Synne Spjelkavik (M.Eng. special course). DTU Aqua, role: Co-supervisor
+- 2022.		Signe Melbye Andersen (M.Eng. thesis), DTU Aqua (Denmark), role: Co-supervisor.
+- 2021.	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Eng.), DTU Sustain (Denmark), role: Co-supervisor in special course.
+- 2021.		Evelyn Namuga Kasule (B.Eng.), DTU Sustain (Denmark), role: Co-supervisor.
 
 
 ## Publications
