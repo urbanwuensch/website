@@ -9,9 +9,11 @@ bigimg:
   - "/img/eurofleets2.jpg" : "Tromsø, Norway (2015)"
   - "/img/Fjord_ice_MSM56.jpg" : "Scoresby Sund, Greenland (2016)"
   - "/img/Columbia_River.jpg" : "Columbia River, OR (USA, 2013)"
+  - "/img/Urban_Wuensch_MSM56.jpg" : "Maria S Merian, Scoresby Sound (Greenland, 2016)"
+  - "/img/hplc_picture.jpg" : "High-performance liquid chromatography @ DTU Aqua (2024)"
 ---
 
-I'm Urban Wünsch, a postdoctoral researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water. 
+I'm Urban Wünsch, a researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water. 
 
 Did I loose you there? Imagine a nice cup of [black tea](https://www.youtube.com/watch?v=e43xgMIW6K4). We instinctively know that the darker our tea, the more intense the flavor. We actually figured out the chemistry of tea a long time ago. But would you drink water from a river if it had the same intense color? Probably not, right? 
 
