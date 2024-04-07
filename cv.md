@@ -62,9 +62,9 @@ __Jump to sections of interest:__
 
 
 ## Three most recent conferences
-- 2023.	Photosensitivity of fluorescent dissolved organic matter across the arctic ocean, Aquatic Sciences Meeting 2023 (Mallorca, Spain)
-- 2021.	Combining Physical and Mathematical Chromatography to Decipher the Molecular Fingerprints of Dissolved Organic Matter, 20th Conference of the International Humic Substances Society (online)
-- 2021.	Mathematical chromatography deciphers the molecular fingerprints of dissolved organic matter, Aquatic Sciences Meeting 2021 (online).
+- 2023:	Photosensitivity of fluorescent dissolved organic matter across the arctic ocean, Aquatic Sciences Meeting 2023 (Mallorca, Spain)
+- 2021:	Combining Physical and Mathematical Chromatography to Decipher the Molecular Fingerprints of Dissolved Organic Matter, 20th Conference of the International Humic Substances Society (online)
+- 2021:	Mathematical chromatography deciphers the molecular fingerprints of dissolved organic matter, Aquatic Sciences Meeting 2021 (online).
 
 
 ## Membership in scientific societies
@@ -73,7 +73,6 @@ __Jump to sections of interest:__
 - 2018-present:	International Humic Substances Society (IHSS)
 
 ## Teaching experience
-
 - Since 2023:		Main teacher: Business Development and Innovation (12 students, M.Eng.)
 - Since 2018:		Teacher: Parallel Factor Analysis for DOM fluorescence (25 PhD students & researchers).
 - 2021-present:	Lecturer: M.Sc. courses “Aquatic Field work” and “Chemical Oceanography”.
@@ -82,19 +81,18 @@ __Jump to sections of interest:__
 
 
 ## PhD supervision
-
-- 2019-2023.	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee and PhD defense committee member.
-- 2019-2023.		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
-- 2018-2021.		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
+- 2019-2023:	Xianyu Kong (PhD student), Alfred Wegener Institute (Germany), role: Thesis advisory committee and PhD defense committee member.
+- 2019-2023:		Anders Dalhoff Bruhn Jensen (PhD candidate), DTU Aqua (Denmark), role: Co-supervisor.
+- 2018-2021:		Nashita Moona (PhD student), Chalmers (Sweden), role: Co-supervisor.
 
 ## Student supervision
-- 2023.	Dirk Bremmers (M.Eng. thesis), DTU Aqua, role: Co-supervisor
-- 2022.	Emilie Tage Andresen (B.Eng. thesis), DTU Kemi, role: Co-supervisor
-- 2022.	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
-- 2022.	Synne Spjelkavik (M.Eng. special course). DTU Aqua, role: Co-supervisor
-- 2022.		Signe Melbye Andersen (M.Eng. thesis), DTU Aqua (Denmark), role: Co-supervisor.
-- 2021.	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Eng.), DTU Sustain (Denmark), role: Co-supervisor in special course.
-- 2021.		Evelyn Namuga Kasule (B.Eng.), DTU Sustain (Denmark), role: Co-supervisor.
+- 2023:	Dirk Bremmers (M.Eng. thesis), DTU Aqua, role: Co-supervisor
+- 2022:	Emilie Tage Andresen (B.Eng. thesis), DTU Kemi, role: Co-supervisor
+- 2022:	Linea Gry Ebbesen (B.Eng. thesis), DTU Sustain, role: Co-supervisor
+- 2022:	Synne Spjelkavik (M.Eng. special course). DTU Aqua, role: Co-supervisor
+- 2022:		Signe Melbye Andersen (M.Eng. thesis), DTU Aqua (Denmark), role: Co-supervisor.
+- 2021:	Laila Vinther & Cecilie Hjelm Hvas Hansen (M.Eng.), DTU Sustain (Denmark), role: Co-supervisor in special course.
+- 2021:		Evelyn Namuga Kasule (B.Eng.), DTU Sustain (Denmark), role: Co-supervisor.
 
 
 ## Publications
