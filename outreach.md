@@ -25,8 +25,12 @@ __What's on this page?__
 ### PARAFAC on HRMS data
 {% include youtubePlayer.html id="2JJoAuaUi-s" %}
 
+---
+
 ### Emerging patterns in the global distribution of fluorescent dissolved organic matter
 {% include youtubePlayer.html id="BdIRTgxeTho" %}
+
+---
 
 ### Arctic Fjord Timelapse
 
