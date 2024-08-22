@@ -13,18 +13,18 @@ bigimg:
   - "/img/hplc_picture.jpg" : "High-performance liquid chromatography @ DTU Aqua (2024)"
 ---
 
-I'm Urban Wünsch, a researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water. 
+I'm Urban Wünsch, a researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water by shining a light on the key processes involved.
 
-Did I loose you there? Imagine a nice cup of [black tea](https://www.youtube.com/watch?v=e43xgMIW6K4). We instinctively know that the darker our tea, the more intense the flavor. We actually figured out the chemistry of tea a long time ago. But would you drink water from a river if it had the same intense color? Probably not, right? 
+Did I lose you there? Imagine a nice cup of [black tea](https://www.youtube.com/watch?v=e43xgMIW6K4). We instinctively know that the darker our tea, the more intense the flavor. We actually figured out the chemistry of tea a long time ago. But would you drink water from a river if it had the same intense color? Probably not, right? What do you think would happen to the tea if bacteria would try to use it as their substrate?
 
-So the question is: If river water is that colored, should we actually be worried, or are the substances harmless? Where did they come from? Do they persist in the environment? Which substances cause this color? How can we remove them to obtain clean, color- and odorless drinking water?
+So the question is: If river water is that colored, should we actually be worried, or are the substances harmless? Where did they come from? Do they persist in the environment? How can we remove them to obtain clean, color- and odorless drinking water? Do the enzymes that degrade natural organic matter have unique industrial applications?
 
-While these questions seem quite simple, the number of organic compounds in any water sample is so large that common analysis techniques are often overwhelmed with the complexity of a water sample. My reseach focusses on using statistical models to disentangle the fingerprints of organic matter from different sources.
+While these questions seem quite simple, the number of organic compounds in any water sample is so large that common analysis techniques are often overwhelmed with the complexity of a water sample.
 
 ---
 For the scientists visiting this page:
 
-I am a postdoctoral researcher focussed on the elucidation of the relationship between optical and chemical properties of Dissolved Organic Matter (DOM). I use analytical techniques such as:
+I am a researcher focussed on the elucidation of the relationship between optical and chemical properties of Dissolved Organic Matter (DOM). I use analytical techniques such as:
 
 - Fluorescence emission-excitation matrix (EEM) spectroscopy
 - Absorbance spectroscopy
