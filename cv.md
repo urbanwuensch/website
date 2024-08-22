@@ -26,7 +26,7 @@ __Jump to sections of interest:__
 
 ---
 ## Employment
-- Since 2024.   Researcher. Technical University of Denmark, National Institute for Aquatic Resources.
+- Since 2024.   Assistant Professor. Technical University of Denmark, National Institute for Aquatic Resources.
 - 2020-2024.	  Postdoc. Technical University of Denmark, National Institute for Aquatic Resources.
 - 2018-2020.		Postdoc. Chalmers University of Technology, Architecture and Civil Engineering.
 - 2014-2017.		PhD student. Technical University of Denmark, National Institute for Aquatic Resources.
