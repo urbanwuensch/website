@@ -11,6 +11,7 @@ bigimg:
   - "/img/Columbia_River.jpg" : "Columbia River, OR (USA, 2013)"
   - "/img/Urban_Wuensch_MSM56.jpg" : "Maria S Merian, Scoresby Sound (Greenland, 2016)"
   - "/img/hplc_picture.jpg" : "High-performance liquid chromatography @ DTU Aqua (2024)"
+  - "/img/proAc.jpg : "ProAc academic profile (November 2025)"
 ---
 
 I'm Urban Wünsch, a researcher working on all things dissolved in water. I am driven by a desire to disentangle the composition of complex environmental samples to understand the fate of organic substances in water by shining a light on the key processes involved.
